@@ -1,6 +1,6 @@
 from circleshape import CircleShape
 import pygame
-from constants import LINE_WIDTH, SCREEN_WIDTH, SCREEN_HEIGHT
+from constants import LINE_WIDTH
 pygame.init()
 
 class Asteroid(CircleShape):
